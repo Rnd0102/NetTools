@@ -1,3 +1,4 @@
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass -force
 do {
  echo "===============================================================
  __   _ _______ _______ _______  _____   _____         _______
